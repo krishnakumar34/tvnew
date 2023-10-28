@@ -1,5 +1,5 @@
 {
-  "name": "tv",
+  "name": "tvnew",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +27,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://yogeshwaran01.github.io/tv",
+  "homepage": "https://tvnew.onrender.com/tvnew",
   "browserslist": {
     "production": [
       ">0.2%",
